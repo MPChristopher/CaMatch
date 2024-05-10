@@ -1,0 +1,7 @@
+{
+  "name": "CaMatch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
